@@ -2,7 +2,7 @@
 
 Willkommen auf der offiziellen Homepage von **VERMA**. Unser Verein ebnet den Weg zu einem erfüllten, alkoholfreien Leben und fungiert dabei als Leuchtturm für all jene, die sich von der Last der Abhängigkeit befreien möchten. Dieses Dokument bietet dir einen tiefgehenden Einblick in unsere Geschichte, unsere Mission und unsere vielfältigen Programme.
 
-![Mühlhof](img/muelhof.jpg)
+![Mühlhof](img/muehlhof.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ Unser Ansatz basiert auf Austausch, Gemeinschaft und ganzheitlicher Förderung �
 
 ## Unsere Programme
 
-![Jahresprogramm 2025](img/jahresprogramm_2025.jgp)
+![Jahresprogramm 2025](img/jahresprogramm_2025.jpg)
 
 
 Die Stärke von **VERMA** liegt in unserem vielseitigen Angebot, das Menschen direkt im Alltag unterstützt und inspiriert:
