@@ -86,7 +86,7 @@ Viele unserer Teilnehmer befinden sich in finanziell herausfordernden Situatione
 - **Spendenkonto:**  
 CH93 8080 8004 8451 4231 9
 
-<img alt="QR Einzahlung" src="img/qr_code.jpg" style="max-width: 40%; height: auto;">
+![QR Einzahlung](img/qr_code.jpg)
 
 
 Mit deiner Unterstützung trägst du dazu bei, langfristig auch Kosten im Gesundheitswesen zu senken und den Betroffenen einen nachhaltigen Neuanfang zu ermöglichen.
