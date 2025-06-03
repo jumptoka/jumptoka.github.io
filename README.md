@@ -103,7 +103,7 @@ E-Mail: [zaech@bluewin.ch](mailto:zaech@bluewin.ch)
 
 - **Konrad Kals**  
 Haldenweg 15c, 8888 Heiligkreuz  
-E-Mail: [kals@bluemail.ch](mailto:kals@bluemail.ch)
+
 
 ---
 
