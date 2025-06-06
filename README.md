@@ -86,10 +86,11 @@ Viele unserer Teilnehmer befinden sich in finanziell herausfordernden Situatione
 - 
 - **Spendenkonto:**
 -   
-CH93 8080 8004 8451 4231 9
-verma
-Tannenstrasse 13
-9463 Oberriet (SG)
+# CH93 8080 8004 8451 4231 9
+
+# verma
+# Tannenstrasse 13
+# 9463 Oberriet (SG)
 
 ![QR Einzahlung](img/qr_code.jpg)
 
