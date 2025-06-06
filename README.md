@@ -83,8 +83,13 @@ Viele unserer Teilnehmer befinden sich in finanziell herausfordernden Situatione
 
 - **Spendenaufruf:** Jede Spende, egal in welcher Höhe, hilft uns, das vielfältige Angebot aufrechtzuerhalten und zu erweitern.  
 - **Sponsoren:** Durch Sponsorenbeiträge können zusätzlich kulturelle Veranstaltungen und Ausflüge realisiert werden, die den Gemeinschaftssinn weiter stärken.
-- **Spendenkonto:**  
+- 
+- **Spendenkonto:**
+-   
 CH93 8080 8004 8451 4231 9
+verma
+Tannenstrasse 13
+9463 Oberriet (SG)
 
 ![QR Einzahlung](img/qr_code.jpg)
 
