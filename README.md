@@ -1,6 +1,6 @@
 # VERMA – Ein Leuchtturm auf dem Weg in ein alkoholfreies Leben
 
-Willkommen auf der offiziellen Homepage von **VERMA**. Unser Verein ebnet den Weg zu einem erfüllten, alkoholfreien Leben und fungiert dabei als Leuchtturm für all jene, die sich von der Last der Abhängigkeit befreien möchten. Diese Seite bietet dir einen tiefgehenden Einblick in unsere Geschichte, unsere Mission und unsere vielfältigen Programme.
+Willkommen auf der offiziellen Homepage von **VERMA**. Unser Verein ebnet den Weg zu einem erfüllten, alkoholfreien Leben und kann dabei ein Leuchtturm sein für all jene, die sich von der Last der Abhängigkeit befreien möchten. Diese Seite bietet dir einen tiefgehenden Einblick in unsere Geschichte, unsere Mission und unsere vielfältigen Programme.
 
 ![Mühlhof](img/muehlhof.jpg)
 
