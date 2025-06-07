@@ -1,6 +1,6 @@
 # VERMA – Ein Leuchtturm auf dem Weg in ein alkoholfreies Leben
 
-Willkommen auf der offiziellen Homepage von **VERMA**. Unser Verein ebnet den Weg zu einem erfüllten, alkoholfreien Leben und fungiert dabei als Leuchtturm für all jene, die sich von der Last der Abhängigkeit befreien möchten. Dieses Dokument bietet dir einen tiefgehenden Einblick in unsere Geschichte, unsere Mission und unsere vielfältigen Programme.
+Willkommen auf der offiziellen Homepage von **VERMA**. Unser Verein ebnet den Weg zu einem erfüllten, alkoholfreien Leben und fungiert dabei als Leuchtturm für all jene, die sich von der Last der Abhängigkeit befreien möchten. Diese Seite bietet dir einen tiefgehenden Einblick in unsere Geschichte, unsere Mission und unsere vielfältigen Programme.
 
 ![Mühlhof](img/muehlhof.jpg)
 
@@ -53,7 +53,7 @@ Die Stärke von **VERMA** liegt in unserem vielseitigen Angebot, das Menschen di
 
 ### Vorträge & Informationsveranstaltungen
 
-- **Erfahrungsberichte:** Ehemalige teilen ihre persönlichen Geschichten – sie zeigen, dass der Weg ins Suchtabwesen möglich ist.  
+- **Erfahrungsberichte:** Ehemalige teilen ihre persönlichen Geschichten – sie zeigen, dass der Weg aus der Sucht möglich ist.  
 - **Fachliche Aufklärung:** Experten bieten Workshops und Vorträge an, die fundierte Informationen sowie praktische Tipps zur Überwindung von Suchtabhängigkeiten liefern.
 
 ### Sportveranstaltungen
@@ -65,12 +65,11 @@ Die Stärke von **VERMA** liegt in unserem vielseitigen Angebot, das Menschen di
 
 - **Regelmäßige Treffen:** Jeden ersten Freitag im Monat treffen sich die Mitglieder im Migros-Restaurant beim Hauptbahnhof in St. Gallen zu einem entspannten Beisammensein.
 - **Vielfältige Aktivitäten:**  
-  - Boccia-Spiele in Rorschach  
-  - Führungen im Kloster Einsiedeln  
-  - Schifffahrten zur Insel Ufenau  
-  - Rundgänge in Burgau  
-  - Spannende Boule-Spiele  
-  - Besuche im Kybunpark in St. Gallen und im Paketzentrum in Frauenfeld  
+  - Spiele wie Kegeln, Boccia, Boule, Dart usw.  
+  - Führungen 
+  - Schifffahrten auf dem Rhein, dem Boden- oder Zürichsee
+  - Rundgänge in sehenswerten und spannenden Gegenden, Ortschaften oder Städten 
+  - Besuche in Betrieben und Industriestandorten
   - Adventstreffen in Magdenau
 
 Diese Aktivitäten schaffen nicht nur positive Erlebnisse, sondern fördern auch den sozialen Zusammenhalt und bestätigen den Weg in eine suchtfreie Zukunft.
@@ -79,7 +78,7 @@ Diese Aktivitäten schaffen nicht nur positive Erlebnisse, sondern fördern auch
 
 ## Finanzielle Unterstützung & Sponsoring
 
-Viele unserer Teilnehmer befinden sich in finanziell herausfordernden Situationen und sind teilweise auf Sozialhilfe angewiesen. Um sicherzustellen, dass niemand aufgrund von Geldmangel vom Vereinsleben ausgeschlossen wird, sind wir auf finanzielle Unterstützung angewiesen:
+Manchmal befinden sich Teilnehmer in finanziell herausfordernden Situationen und sind teilweise auf Sozialhilfe angewiesen. Um sicherzustellen, dass niemand aufgrund von Geldmangel vom Vereinsleben ausgeschlossen wird, sind wir auf finanzielle Unterstützung angewiesen:
 
 - **Spendenaufruf:** Jede Spende, egal in welcher Höhe, hilft uns, das vielfältige Angebot aufrechtzuerhalten und zu erweitern.  
 - **Sponsoren:** Durch Sponsorenbeiträge können zusätzlich kulturelle Veranstaltungen und Ausflüge realisiert werden, die den Gemeinschaftssinn weiter stärken.
