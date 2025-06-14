@@ -108,7 +108,7 @@ E-Mail: [j.zaech@bluewin.ch](mailto:j.zaech@bluewin.ch)
 
 - **Konrad Kals**  
 Haldenweg 15c, 8888 Heiligkreuz  
-
+E-Mail: [verma-verein@proton.me](mailto:verma-verein@proton.me)
 
 ---
 
