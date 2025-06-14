@@ -104,7 +104,7 @@ Möchtest du mehr über **VERMA** erfahren oder aktiv dazu beitragen, den Weg in
 
 - **Jakob Zäch**  
 Tannenstrasse 13, 9463 Oberriet SG  
-E-Mail: [zaech@bluewin.ch](mailto:zaech@bluewin.ch)
+E-Mail: [j.zaech@bluewin.ch](mailto:j.zaech@bluewin.ch)
 
 - **Konrad Kals**  
 Haldenweg 15c, 8888 Heiligkreuz  
