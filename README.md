@@ -1,4 +1,6 @@
-# VERMA – Ein Leuchtturm auf dem Weg in ein alkoholfreies Leben
+# VERMA – Ein Leuchtturm... 
+
+Ein Leuchtturm auf dem Weg in ein alkoholfreies Leben
 
 Willkommen auf der offiziellen Homepage von **VERMA**. Unser Verein ebnet den Weg zu einem erfüllten, alkoholfreien Leben und kann dabei ein Leuchtturm sein für all jene, die sich von der Last der Abhängigkeit befreien möchten. Diese Seite bietet dir einen tiefgehenden Einblick in unsere Geschichte, unsere Mission und unsere vielfältigen Programme.
 
@@ -91,8 +93,7 @@ Manchmal befinden sich Teilnehmer in finanziell herausfordernden Situationen und
 Tannenstrasse 13,
 9463 Oberriet (SG)
 
-![QR Einzahlung](img/qr_code.jpg)
-
+![QR Einzahlung](img/qr_code-viel kleiner.jpg) 
 
 Mit deiner Unterstützung trägst du dazu bei, langfristig auch Kosten im Gesundheitswesen zu senken und den Betroffenen einen nachhaltigen Neuanfang zu ermöglichen.
 
